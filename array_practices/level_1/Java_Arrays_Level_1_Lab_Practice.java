@@ -5,10 +5,10 @@ import java.util.*;
 public class Java_Arrays_Level_1_Lab_Practice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner scanner = new Scanner(System.in);
 		
-		// Voting Eligibility
+		
         int[] ages = new int[10];
 
         System.out.println("Enter the ages of 10 students:");
